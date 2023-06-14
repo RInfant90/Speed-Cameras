@@ -10,8 +10,8 @@ Analyzed over 950,000 records of NYC Open Data on DOT Traffic Speed Cameras for 
 - Top Speed Camera Locations
 
 # Tools
-- Excel for data cleaning, and exploration
-- Python for exploration and visualizations
+- Excel for exploration
+- Python for data cleaning, analysis, visualizations, and presentation
   
 # Data Findings
 
