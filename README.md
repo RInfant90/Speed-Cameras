@@ -9,6 +9,10 @@ Analyzed over 950,000 records of NYC Open Data on DOT Traffic Speed Cameras for 
 - Borough with highest average speed
 - Top Speed Camera Locations
 
+# Tools
+- Excel for data cleaning, and exploration
+- Python for exploration and visualizations
+  
 # Data Findings
 
 - An average city speed of over 35mph between hours of 10pm-5am with only 3 mph difference between weekday and weekends
