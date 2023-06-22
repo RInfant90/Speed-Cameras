@@ -1,6 +1,6 @@
 # Speed-Cameras
 
-Analyzed over 950,000 records of NYC Open Data on DOT Traffic Speed Cameras for the month of February 2023.  Explored the dataset for effectiveness of speed cameras since the inception of Vision Zero.
+Analyzed over 950,000 records of NYC Open Data on DOT Traffic Speed Cameras for the month of February 2023.  Explored the dataset for effectiveness of speed cameras since the inception of Vision Zero.  You can find the dataset here, https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9.  I am currently unable to load the file due to its size.
 
 # I analyzed the data for
 - Hourly Speed Variations
